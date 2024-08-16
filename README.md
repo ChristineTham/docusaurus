@@ -5,6 +5,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 Additional themes and plugins:
 * @docusaurus/theme-mermaid
 * @cmfcmf/docusaurus-search-local
+* @docusaurus/plugin-ideal-image
 
 ### Installation
 
